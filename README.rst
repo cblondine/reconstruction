@@ -1,6 +1,8 @@
 Deep Cascade of Convolutional Neural Networks for MR Image Reconstruction
 =========================================================================
 
+Changed version of:
+
 Reconstruct MR images from its undersampled measurements using Deep Cascade of
 Convolutional Neural Networks. This repository contains the implementation of
 DC-CNN using Theano and Lasagne and the simple demo on toy dataset borrowed from
